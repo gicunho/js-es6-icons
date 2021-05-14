@@ -3,9 +3,37 @@
     background-color: #dddddd;
 }
 
+h1 {
+    color: #29b1dd;
+}
+
+nav {
+    background-color: #29b1dd;
+    padding: 20px 0;
+}
+
 #icons > div {
-    width: 250px;
+    width: 200px;
     height: 100px;
     background-color: #f5f5f5;
     border-radius: 10px;
+    box-shadow: 2px 2px 2px grey;
+}
+
+.user {
+    color: #800080;
+}
+
+.vegetable {
+    color: #ffa500;
+}
+
+.animal {
+    color: #0000ff;
+}
+
+.bg_red {
+    display: none!important;
+    width: 400px!important;
+    
 }
